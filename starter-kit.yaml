@@ -32,4 +32,4 @@ export_paths:
   - postcss.config.js
   - CHANGELOG.md
 dependencies:
-  cnj/seotamic: ^2.0
+  cnj/seotamic: *
